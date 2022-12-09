@@ -12,8 +12,7 @@ This repository contains a `Practicals` folder which has two parts:
 1. `Regular Tasks`
 2. `Normal Distribuion Notebook.ipynb`
 
-The `Regular Tasks` contains 5 Jupyter Notebooks, each contains excercises 
-from each topic we explored over the course of the module. 
+The `Regular Tasks` contains 5 Jupyter Notebooks, each containing exercises from each topic we explored over the course of the module. 
 
 - `1-Information.ipynb`
 - `2-Randomness.ipynb`
@@ -21,8 +20,7 @@ from each topic we explored over the course of the module.
 - `4-Outliers.ipynb`
 - `5-Cleansing.ipynb`
 
-The `Normal Distribuion Notebook.ipynb` is a Jupyter Notebook containing
-the my work explorinf the Normal Distribuion. 
+The `Normal Distribuion Notebook.ipynb` is a Jupyter Notebook contains the my work exploring the Normal Distribuion. 
 
 # Intructions to Reader
 
