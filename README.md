@@ -33,4 +33,13 @@ To do:
 
 # Python Libraries
 
-At the start of each Jupyter Notebook I have outline which libraries I am using. Below is a brief description of each library. 
+At the start of each Jupyter Notebook I have outlined which libraries I am using. Below is a brief description of each library. 
+
+- `urllib.request` is a library for opening URLs. 
+- `random` is used to generate random numbers.
+- `math` module provides access to the mathematical functions defined by the C standard.
+- `numpy` is a library used for working with arrays. It provides a high-performance multidimensional array object, and tools for working with these
+- `matplotlib.pyplot` - is used for customised data visualisations. 
+- `seaborn`- uses matplotlib and is also used for data visualisations. 
+- `pandas` - data analysis and manipulation tool. 
+- `re` - provides regular expression support in Python
