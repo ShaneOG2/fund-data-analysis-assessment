@@ -20,6 +20,8 @@ The `Regular Tasks` contains 5 Jupyter Notebooks, each containing exercises from
 
 The `Normal Distribuion Notebook.ipynb` is a Jupyter Notebook contains the my work exploring the Normal Distribuion. 
 
+The repository also contains a `Content` folder. This holds images and data used in the Jupyter Notebooks. 
+
 # Intructions to Reader
 
 To download and run my Jupyter Notebooks on your local machine: 
@@ -42,4 +44,6 @@ At the start of each Jupyter Notebook I have outlined which libraries I am using
 - `matplotlib.pyplot` - is used for customised data visualisations. 
 - `seaborn`- uses matplotlib and is also used for data visualisations. 
 - `pandas` - data analysis and manipulation tool. 
-- `re` - provides regular expression support in Python
+- `re` - provides regular expression support in Python. 
+- `scipy.stats` - provides access to statistical functions.  
+- `itertools` - used to iterate over data structures that can be stepped over using a for-loop. 
