@@ -20,9 +20,9 @@ The `Regular Tasks` contains 5 Jupyter Notebooks, each containing exercises from
 
 The `Normal Distribuion Notebook.ipynb` is a Jupyter Notebook contains the my work exploring the Normal Distribuion. 
 
-The repository also contains a `Content` folder. This holds images and data used in the Jupyter Notebooks. 
+The repository also contains a `Content` and `data`folder. This holds images and data used in the Jupyter Notebooks. 
 
-# Intructions to Reader
+# Instructions to Reader
 
 To download and run my Jupyter Notebooks on your local machine: 
 
